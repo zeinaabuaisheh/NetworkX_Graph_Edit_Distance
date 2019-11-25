@@ -50,7 +50,7 @@ This optimal graph edit distance approach, referred to as Depth-First Search(DF)
 
 ## Inputs
 
-The inputs of this code are graphs whose format is [GXL](http://www.gupro.de/GXL/Introduction/background.html). The selected dataset here is called GREC and can be downloaded from [here](https://iapr-tc15.greyc.fr/IAM/download-the-iam-graph-database.html).
+The inputs of this code are graphs whose format is [GXL](http://www.gupro.de/GXL/Introduction/background.html). The first selected dataset in this repository is called GREC and can be downloaded from [here](https://iapr-tc15.greyc.fr/IAM/download-the-iam-graph-database.html). Note that the GREC cost function is defined in ```grec_cost_functions.py```
 
 
 ## Run the Code:
