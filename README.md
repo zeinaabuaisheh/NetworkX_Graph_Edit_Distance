@@ -24,7 +24,7 @@ To be able to use such functions for Pattern Recognition purposes, one needs to 
 
 
 ## Reference
-This optimal graph edit distance approach, referred to as Depth-First Search(DF), has been proposed by Zeina Abu-Aisheh et al:
+This optimal graph edit distance approach, referred to as Depth-First Search (DFS), has been proposed by Zeina Abu-Aisheh et al:
 
 [Zeina Abu-Aisheh, Romain Raveaux and Jean-Yves Ramel. "Graph Edit Distance for Solving Pattern Recognition Problems." *ICPRAM.* 2015](http://www.rfai.li.univ-tours.fr/PagesPerso/zabuaisheh/documents/icpram.pdf). Please cite:
  
