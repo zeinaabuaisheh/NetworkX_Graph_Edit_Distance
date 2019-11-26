@@ -20,7 +20,7 @@ This repository illustrated the usage of the NetworkX functions (```graph_edit_d
 
 - ```optimal_edit_paths``` returns all the possible paths whose distance is the minimum (i.e. the optimal distance). Note that most graph edit distance datasets have one and only one solution. However, there are few datasets that could have one or more possible paths with the same minimum or optimal distance.
 
-To be able to use such functions for Pattern Recognition purposes, one needs to define a cost function which is suitable to the graph dataset type (i.e., attributes). In this repository, we show you how to define your cost function and pass it as an input to these NetworkX functions.
+To be able to use such functions for Pattern Recognition purposes, one needs to define a cost function which is suitable to the graph dataset type (i.e., attributes). In this repository, we show you how to define your cost function and pass it as a parameter to these NetworkX functions.
 
 
 ## Reference
