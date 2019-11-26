@@ -6,8 +6,9 @@
 
 ## Requirements
 
-python 3.6
-NetworkX
+Install the needed packages:
+
+```pip install -r requirements.txt```
 
 
 
